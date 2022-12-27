@@ -1,26 +1,16 @@
 let students = [
-    { id: 1, name: "Jack", course: "React", grade: "A", city: "London" },
-    { id: 2, name: "Tim", course: "Node", grade: "A", city: "Paris" },
-    { id: 3, name: "Anna", course: "JS", grade: "B", city: "London" },
-    { id: 4, name: "Bob", course: "Angular", grade: "B", city: "Mumbai" },
-    { id: 5, name: "Mary", course: "React", grade: "A", city: "Tokyo" },
-    { id: 6, name: "Steve", course: "React", grade: "B", city: "London" },
-    { id: 7, name: "Kathy", course: "Node", grade: "C", city: "Tokyo" },
-    { id: 8, name: "Vivian", course: "Node", grade: "D", city: "Mumbai" },
-    { id: 9, name: "Edwards", course: "JS", grade: "D", city: "Mumbai" },
-    { id: 10, name: "George", course: "JS", grade: "C", city: "Tokyo" },
-    { id: 11, name: "Sam", course: "Angular", grade: "B", city: "Paris" },
-    { id: 12, name: "Amy", course: "Angular", grade: "A", city: "Paris" },
-    { id: 13, name: "Jill", course: "JS", grade: "A", city: "Tokyo" },
-    { id: 14, name: "Duke", course: "JS", grade: "B", city: "Mumbai" },
-    { id: 15, name: "Anita", course: "JS", grade: "B", city: "Paris" },
-    { id: 16, name: "Mike", course: "React", grade: "C", city: "London" },
-    { id: 17, name: "Teddy", course: "Node", grade: "C", city: "Tokyo" },
-    { id: 18, name: "Charles", course: "JS", grade: "D", city: "Mumbai" },
-    { id: 19, name: "Bill", course: "Node", grade: "D", city: "London" },
-    { id: 20, name: "Carla", course: "React", grade: "D", city: "Tokyo" },
-    { id: 21, name: "Joanna", course: "JS", grade: "A", city: "Paris" },
-    { id: 22, name: "Pam", course: "JS", grade: "B", city: "Paris" },
-  ];
-  
-  module.exports.studentsData = students;
+    {id: "DFI61", name:"Vishal", city:"Delhi", age:27, gender:"Male", payment:"Credit Card"},
+    {id: "JUW88", name:"Amit", city:"Noida", age:49, gender:"Male", payment:"Debit Card"},
+    {id: "KPW09", name:"Pradeep", city:"Gurgaon", age:21, gender:"Male", payment:"Wallet"},
+    {id: "ABR12", name:"Rohit", city:"Jaipur", age:34, gender:"Male", payment:" Debit Card"},
+    {id: "BR451", name:"Preeti", city:"Delhi", age:29, gender:"Female", payment:"Credit Card"},
+    {id: "MKR52", name:"Neha", city:"Noida", age:42, gender:" Female ", payment:"Debit Card"},
+    {id: "BTT66", name:"Swati", city:"Gurgaon", age:24, gender:" Female ", payment:"Wallet"},
+    {id: "CDP09", name:"Meghna", city:"Jaipur", age:38, gender:" Female ", payment:" Debit Card"},
+    {id: "KK562", name:"Irfan", city:"Delhi", age:25, gender:"Male", payment:"Credit Card"},
+    {id: "LPR34", name:"Gagan", city:"Noida", age:51, gender:" Female ", payment:"Debit Card"},
+    {id: "MQC11", name:"John", city:"Gurgaon", age:24, gender:"Male", payment:"Wallet"},
+    {id: "AXY22", name:"Gurmeet", city:"Jaipur", age:31, gender:"Male", payment:" Debit Card"}
+   ]
+    
+    module.exports.studentsData = students;
